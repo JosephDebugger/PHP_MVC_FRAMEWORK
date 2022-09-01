@@ -1,0 +1,15 @@
+{
+    "name": "josep/phpmvcframework",
+    "autoload": {
+        "psr-4": {
+            "Josep\\Phpmvcframework\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joseph Dias"
+        }
+    ],
+    
+    "require": {}
+}
