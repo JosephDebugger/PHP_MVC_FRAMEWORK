@@ -13,6 +13,7 @@ $app->router->get('/', function(){
 $app->router->get('/contact', function(){
     return 'contact';
 });
-
+$app->router->get('/about', function(){
+    return 'about';
+});
 $app->run();
-?>
