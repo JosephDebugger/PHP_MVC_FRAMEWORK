@@ -15,3 +15,4 @@ $app->router->get('/contact', function(){
 });
 
 $app->run();
+?>
